@@ -10,6 +10,7 @@ Limitations
 
 * Editor view don't render the effect.
 * Tested with Unity version 2017.1.1f1
+* Latest version is 2020
 
 Further Reading
 ===============
